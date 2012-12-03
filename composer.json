@@ -1,0 +1,7 @@
+{
+    "name": "gausie/gitocracy",
+    "require": {
+        "slim/slim": "2.*",
+        "aredridel/Glip": "v0.1.2"
+    }
+}
